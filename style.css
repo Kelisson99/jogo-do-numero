@@ -1,0 +1,28 @@
+ 
+     body {
+     background-color: lightblue;
+     font-size: 20px;
+     text-align: center;
+     color: floralwhite;
+     }
+     .box {  
+          width: 190px;
+          padding: 40px;
+          border: 2px solid #ccc;
+          border-radius: 18px;
+          text-align: center;
+          background-color: white;
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+          margin: 40px auto;
+          color: lightblue;
+     }
+     .input {
+               background-color: whitesmoke;
+               border: 2px;
+               text-align: center;
+          }
+      .paragrafo {
+      	color: royalblue;
+      	font-size: 25px;
+      	font-family:cursive;
+      }
